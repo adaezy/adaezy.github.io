@@ -15,8 +15,7 @@ Data Science Intern
 Senior Network Security Analyst
 
 ## Research
-Towards Quantifying the Communication Aspect of Resilience in Disaster-Prone Communities
-
+### Towards Quantifying the Communication Aspect of Resilience in Disaster-Prone Communities
 [Publication](https://www.nature.com/articles/s41598-024-59192-3)
 
 ## Personal Projects
