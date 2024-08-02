@@ -1,4 +1,4 @@
-# PhD Candidate
+# Ph.D. Candidate
 #### Technical Skills: ML/AI, Python, C, R, MATLAB, SQL, MongoDB, Google Cloud, AWS, Networking and Network Security, Graph Neural Networks
 
 
