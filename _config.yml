@@ -2,4 +2,5 @@ title: Adaeze Okeukwu-Ogbonnaya
 logo: /assets/img/headshot_circle.png
 #description:
 #show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
