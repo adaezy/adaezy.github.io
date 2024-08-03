@@ -27,9 +27,12 @@ Graduate Teaching Assistant @ Kansas State University
 - Computer Architecture and Operation (Spring 2020, Spring 2022)
 
 
-## Research
+## Research Publications
 ### Towards Quantifying the Communication Aspect of Resilience in Disaster-Prone Communities
 [Publication](https://www.nature.com/articles/s41598-024-59192-3)
+
+
+## Talks and Presentations
 
 ## Personal Projects
 
